@@ -2,13 +2,15 @@
 
 [Apprenticeship Patterns](https://a.co/d/ifFzWdS) - David H.Hoover & Adewal Oshineye
 
-[7 Habits of Highly Effective People](https://a.co/d/3czXIkp) – Stephnen R. Covey
+[7 Habits of Highly Effective People](https://a.co/d/3czXIkp) – Stephen R. Covey
 
 [Ideal Team Player](https://a.co/d/fodHLr9) – Patrick Lencioni
 
 [Dare to Lead](https://a.co/d/9DHPp9B) – Brené Brown
 
 [Accelerate](https://a.co/d/2JHt4Ac) – Nicole Forsgren, Jez Humble, Gene Kim
+
+[Mini Habits: Smaller Habits, Bigger Results](https://a.co/d/3TmCnpV) - Stephen Guise
 
 ### Websites Mentioned
 
