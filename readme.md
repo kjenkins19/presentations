@@ -24,6 +24,10 @@ This repository contains resources which I hope will assist you in the future.
 
 [Conscious Capitalism](https://a.co/d/ayAGnXR) - John Mackey, Rajendra Sisodia
 
+[Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://a.co/d/gsnrx8e) - Kim Scott
+
+[Just Work: How to Root Out Bias, Prejudice, and Bullying to Build a Kick-Ass Culture of Inclusivity](https://a.co/d/dgXe6lb) - Kim Scott
+
 ### Websites
 
 Agile Manifesto – https://agilemanifesto.org/
