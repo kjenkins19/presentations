@@ -28,6 +28,12 @@ This repository contains resources which I hope will assist you in the future.
 
 [Just Work: How to Root Out Bias, Prejudice, and Bullying to Build a Kick-Ass Culture of Inclusivity](https://a.co/d/dgXe6lb) - Kim Scott
 
+[The 4 Agreements: A Practical Guide to Personal Freedom](https://a.co/d/hiL31Zr) - Don Miguel Ruiz
+
+[The Power of TED: The Empowerment Dynamic](https://a.co/d/2LaVjW1) - David Emerald
+
+[How you can contribute to a more prosperous, just & sustainable organization](https://a.co/d/7ounFNO) - EBBF (Ethical Business Building the Future)
+
 ### Websites
 
 Agile Manifesto – https://agilemanifesto.org/
