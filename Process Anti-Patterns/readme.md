@@ -12,6 +12,8 @@
 
 [Mini Habits: Smaller Habits, Bigger Results](https://a.co/d/3TmCnpV) - Stephen Guise
 
+[Great at Work: The Hidden Habits of Top Performers](https://a.co/d/0i3fCKns) - Morten T. Hansen
+
 ### Websites Mentioned
 
 Agile Manifesto – https://agilemanifesto.org/

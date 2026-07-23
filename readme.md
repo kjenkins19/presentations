@@ -34,6 +34,8 @@ This repository contains resources which I hope will assist you in the future.
 
 [How you can contribute to a more prosperous, just & sustainable organization](https://a.co/d/7ounFNO) - EBBF (Ethical Business Building the Future)
 
+[Great at Work: The Hidden Habits of Top Performers](https://a.co/d/0i3fCKns) - Morten T. Hansen
+
 ### Websites
 
 Agile Manifesto – https://agilemanifesto.org/
