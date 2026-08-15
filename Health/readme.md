@@ -10,12 +10,16 @@
 
 [Invisible Women](https://a.co/d/0gQWEE5B) - Caroline Criado Perez
 
-### Podcasts
+## Podcasts
 
 [The Proof with Simon Hill](https://theproof.com/)
 
-### Websites Mentioned
+## Websites Mentioned
     
 Physicians Fitness – https://www.physiciansfitness.com/
 
 Muscle System Specialist Certified Practitioners - https://www.exerciseproed.com/mss-certified-practitioners/
+
+### Exercises
+
+Primary Lower Back/Core: Dead Bug
