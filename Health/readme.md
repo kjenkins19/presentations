@@ -14,7 +14,7 @@
 
 [The Proof with Simon Hill](https://theproof.com/)
 
-[Diary of a CEO](https://www.youtube.com/@TheDiaryOfACEO) = Steven Berlett
+[Diary of a CEO](https://www.youtube.com/@TheDiaryOfACEO) - Steven Barlett
  - [Personal Saved Playlist](https://www.youtube.com/watch?v=NyFSkGMWP5Q&list=PLcu42WWTOVUfhc1V_QYRsevjK7Oz9ohBz)
 
  - Women's Health Focused Episodes
